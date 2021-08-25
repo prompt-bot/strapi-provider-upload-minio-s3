@@ -10,7 +10,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com:ntfs32/strapi-provider-upload-minio"
+    "url": "git+https://github.com/ntfs32/strapi-provider-upload-minio"
   },
   "homepage": "https://github.com/ntfs32/strapi-provider-upload-minio#readme",
   "dependencies": {
