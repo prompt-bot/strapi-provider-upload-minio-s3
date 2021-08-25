@@ -1,6 +1,6 @@
 {
-  "name": "@shaddock/strapi-provider-upload-minio",
-  "version": "1.0.0-alpha.5",
+  "name": "strapi-provider-upload-minio-s3",
+  "version": "1.0.0-alpha.6",
   "lockfileVersion": 1,
   "requires": true,
   "dependencies": {
