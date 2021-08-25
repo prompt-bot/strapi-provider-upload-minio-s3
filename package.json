@@ -5,9 +5,7 @@
   "directories": {
     "lib": "./lib"
   },
-  "scripts": {
-    "postversion": "cp -r package.json .. && cp -r npm-shrinkwrap.json .."
-  },
+  "scripts": {},
   "author": "shaddock",
   "main": "./lib",
   "license": "MIT",
