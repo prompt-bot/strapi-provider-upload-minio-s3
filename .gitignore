@@ -125,7 +125,6 @@ public/*
 extensions/documentation/documentation/1.0.0/full_documentation.json
 .nyc_output
 
-
 .scannerwork/
 !._**.yaml
 .strapi-updater.json
