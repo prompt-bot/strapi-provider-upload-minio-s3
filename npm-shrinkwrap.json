@@ -1,5 +1,5 @@
 {
-  "name": "strapi-provider-upload-minio",
+  "name": "@shaddock/strapi-provider-upload-minio",
   "version": "1.0.0-alpha.2",
   "lockfileVersion": 1,
   "requires": true,
