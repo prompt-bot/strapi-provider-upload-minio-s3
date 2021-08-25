@@ -1,6 +1,6 @@
 {
-  "name": "@shaddock/strapi-provider-upload-minio",
   "version": "1.0.0-alpha.6",
+  "name": "strapi-provider-upload-minio-s3",
   "description": "Minio provider for Strapi file upload.",
   "directories": {
     "lib": "./lib"
@@ -11,9 +11,9 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ntfs32/strapi-provider-upload-minio"
+    "url": "git+https://github.com/ntfs32/strapi-provider-upload-minio-s3"
   },
-  "homepage": "https://github.com/ntfs32/strapi-provider-upload-minio#readme",
+  "homepage": "https://github.com/ntfs32/strapi-provider-upload-minio-s3#readme",
   "dependencies": {
     "minio": "^7.0.19"
   },
