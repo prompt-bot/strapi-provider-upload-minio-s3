@@ -1,6 +1,6 @@
 {
   "name": "@shaddock/strapi-provider-upload-minio",
-  "version": "1.0.0-alpha.4",
+  "version": "1.0.0-alpha.5",
   "description": "Minio provider for Strapi file upload.",
   "directories": {
     "lib": "./lib"
