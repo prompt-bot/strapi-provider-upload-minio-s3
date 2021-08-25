@@ -129,3 +129,5 @@ extensions/documentation/documentation/1.0.0/full_documentation.json
 .scannerwork/
 !._**.yaml
 .strapi-updater.json
+
+yarn.lock
