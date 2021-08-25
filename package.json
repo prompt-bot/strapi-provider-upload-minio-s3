@@ -1,0 +1,19 @@
+{
+  "name": "strapi-provider-upload-minio",
+  "version": "0.0.1",
+  "description": "Minio provider for Strapi file upload.",
+  "directories": {
+    "lib": "./lib"
+  },
+  "author": "shaddock",
+  "main": "./lib",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com:ntfs32/strapi-provider-upload-minio"
+  },
+  "homepage": "https://github.com/ntfs32/strapi-provider-upload-minio#readme",
+  "dependencies": {
+    "minio": "^7.0.19"
+  }
+}
