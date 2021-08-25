@@ -15,5 +15,9 @@
   "homepage": "https://github.com/ntfs32/strapi-provider-upload-minio#readme",
   "dependencies": {
     "minio": "^7.0.19"
+  },
+  "devDependencies": {
+    "@semantic-release/git": "^9.0.0",
+    "@semantic-release/github": "^7.2.3"
   }
 }
