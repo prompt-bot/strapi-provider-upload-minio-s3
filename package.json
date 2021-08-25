@@ -1,11 +1,6 @@
 {
-<<<<<<< HEAD
-  "name": "strapi-provider-upload-minio",
-  "version": "1.0.0",
-=======
   "version": "1.0.0-alpha.7",
   "name": "strapi-provider-upload-minio-s3",
->>>>>>> alpha
   "description": "Minio provider for Strapi file upload.",
   "directories": {
     "lib": "./lib"
