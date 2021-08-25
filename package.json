@@ -1,6 +1,6 @@
 {
   "name": "strapi-provider-upload-minio",
-  "version": "1.0.0-alpha.1",
+  "version": "1.0.0-alpha.2",
   "description": "Minio provider for Strapi file upload.",
   "directories": {
     "lib": "./lib"
