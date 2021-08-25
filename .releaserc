@@ -3,7 +3,7 @@
     "@semantic-release/commit-analyzer",
     "@semantic-release/release-notes-generator",
     ["@semantic-release/exec", {
-      "generateNotesCmd": "./docker/updateVersion.sh ${nextRelease.version}"
+      "generateNotesCmd": "./updateVersion.sh ${nextRelease.version}"
     }],
     ["@semantic-release/git", {
       "message": "chore(release): ${nextRelease.version} \n\n${nextRelease.notes}"
