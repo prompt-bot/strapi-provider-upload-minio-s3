@@ -15,7 +15,8 @@
   },
   "homepage": "https://github.com/ntfs32/strapi-provider-upload-minio-s3#readme",
   "dependencies": {
-    "minio": "^7.0.19"
+    "minio": "^7.0.19",
+    "lodash": "^4.17.15"
   },
   "publishConfig": {
     "registry": "https://registry.npmjs.org/",
