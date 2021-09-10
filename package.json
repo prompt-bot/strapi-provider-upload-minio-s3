@@ -1,5 +1,5 @@
 {
-  "version": "1.1.4",
+  "version": "1.1.5",
   "name": "strapi-provider-upload-minio-s3",
   "description": "Minio provider for Strapi file upload.",
   "directories": {
